@@ -12,3 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->#
 
 ![Views](https://komarev.com/ghpvc/?username=Mrtalalq8&style=flat-square)
+
+
+![Total Releases](https://img.shields.io/github/downloads/Mrtalalq8/Process-Manager-SCREAM_q8x-V1.0/total?style=flat-square)
+
